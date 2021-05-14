@@ -3,6 +3,17 @@ html, body {
   padding: 0;
   margin: 0;
 }
+div.a {
+  font-size: 25px;
+}
+
+div.b {
+  font-size: large;
+}
+
+div.c {
+  font-size: 150%;
+}
 
 .fixed {
   position: fixed;
